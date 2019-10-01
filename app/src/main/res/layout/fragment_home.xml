@@ -52,7 +52,6 @@
             android:gravity="center"
             android:text="@string/txtHome"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:textColor="@color/md_black_1000"
             android:textSize="@dimen/font_normal" />
 
         <TextView

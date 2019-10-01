@@ -5,11 +5,10 @@
     <item
         android:id="@+id/round_background">
         <shape
-            xmlns:android="http://schemas.android.com/apk/res/android"
             android:shape="oval">
             <solid
                 android:id="@+id/background_color"
-                android:color="#FFFFFF"/>
+                android:color="?android:attr/textColorSecondary"/>
             <size
                 android:width="120dp"
                 android:height="120dp"/>

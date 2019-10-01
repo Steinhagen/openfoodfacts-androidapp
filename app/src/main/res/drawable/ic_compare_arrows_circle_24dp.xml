@@ -12,10 +12,10 @@
       android:fillAlpha="1"/>
   <path
       android:pathData="M10.1611,13.23L5.85,13.23l0,1.23l4.3112,0l0,1.845L12.615,13.845 10.1611,11.385Z"
-      android:fillColor="#ffffff"
+      android:fillColor="?android:attr/textColorSecondary"
       android:fillAlpha="1"/>
   <path
       android:pathData="M13.8389,12.615L13.8389,10.77L18.15,10.77L18.15,9.54L13.8389,9.54L13.8389,7.695L11.385,10.155Z"
-      android:fillColor="#ffffff"
+      android:fillColor="?android:attr/textColorSecondary"
       android:fillAlpha="1"/>
 </vector>
