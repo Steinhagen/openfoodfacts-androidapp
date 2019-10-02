@@ -219,6 +219,15 @@ public class PreferencesFragment extends PreferenceFragmentCompat implements INa
         } catch (PackageManager.NameNotFoundException e) {
             Log.e(PreferencesFragment.class.getSimpleName(),"onCreatePreferences",e);
         }
+
+        /*
+            Preference to show Dark Mode
+         */
+        Preference darkModePref = findPreference("darkMode");
+        darkModePref.setOnPreferenceChangeListener((preference, newValue) -> {
+            Log.d("MyApp", "Pref " + preference.getKey() + " changed to " + newValue.toString());
+            return true;
+        });
     }
 
     private boolean openWebCustomTab(int faqUrl) {

@@ -24,7 +24,7 @@
             android:text="@string/category_game_btn"
             android:id="@+id/game_button"
             android:textSize="@dimen/font_small"
-            android:textColor="@color/white"
+            android:textColor="?android:attr/textColorSecondary"
             android:background="@color/orange_400"/>
 
     <fragment

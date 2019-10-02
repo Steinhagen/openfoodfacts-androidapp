@@ -730,6 +730,8 @@
     <string name="shake_summary">Shake phone to scan products</string>
     <string name="shake_title">Shake to scan</string>
 
+    <string name="dark_mode_summary">Enable Dark Mode</string>
+    <string name="dark_mode_title">Dark Mode</string>
 
     <!-- strings related to share images -->
     <string name="sorry_msg">Pictures without barcode cannot yet be added with the app. Please try the mobile web version.</string>
