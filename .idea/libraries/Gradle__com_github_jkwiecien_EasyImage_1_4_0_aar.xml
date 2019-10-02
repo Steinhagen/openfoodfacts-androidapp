@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.jkwiecien:EasyImage:1.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-EasyImage-1.4.0.aar/ecbb4c4849ca10dea15dc5a8e410e81e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-EasyImage-1.4.0.aar/ecbb4c4849ca10dea15dc5a8e410e81e/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jkwiecien/EasyImage/1.4.0/375c2cb71a159d587d76d8c03964020a193cd775/EasyImage-1.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jkwiecien/EasyImage/1.4.0/416649ee981bbcf1f0fe7be4bd959bd29fd0e49b/EasyImage-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

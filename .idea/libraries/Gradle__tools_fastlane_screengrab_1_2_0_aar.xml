@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: tools.fastlane:screengrab:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-screengrab-1.2.0.aar/10c6aa2488d87322397921439d500ecf/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-screengrab-1.2.0.aar/10c6aa2488d87322397921439d500ecf/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tools.fastlane/screengrab/1.2.0/88b1c30383e975cb54fe74671af7615c2c7ee994/screengrab-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tools.fastlane/screengrab/1.2.0/2b885edfdbd8ae04c1c9e4f9210781915652e031/screengrab-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

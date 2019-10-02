@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: net.javacrumbs.json-unit:json-unit-fluent:1.27.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.javacrumbs.json-unit/json-unit-fluent/1.27.0/68e0aeebf4fa03a2f8bec16f130adc4cfb156083/json-unit-fluent-1.27.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.javacrumbs.json-unit/json-unit-fluent/1.27.0/958c8291db24a1e3ca77a7ad9ced917754f1e09b/json-unit-fluent-1.27.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.javacrumbs.json-unit/json-unit-fluent/1.27.0/6f9c100c86b8b172177b7e1080cbd2b1674b963a/json-unit-fluent-1.27.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
